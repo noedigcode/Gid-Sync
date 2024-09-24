@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="gid-sync">gid-sync.ico</file>
+        <file alias="trayicon_ok">gid-sync.ico</file>
+        <file alias="show">PastelSVG-1.2/application.png</file>
+        <file alias="refresh">PastelSVG-1.2/arrow-refresh.png</file>
+        <file alias="pause">PastelSVG-1.2/control-pause-blue.png</file>
+        <file alias="quit">PastelSVG-1.2/cross.png</file>
+        <file alias="repo">PastelSVG-1.2/database.png</file>
+        <file alias="add_repo">PastelSVG-1.2/database-add.png</file>
+        <file alias="remove_repo">PastelSVG-1.2/database-delete.png</file>
+        <file alias="repo_error">PastelSVG-1.2/database-error.png</file>
+        <file alias="status">PastelSVG-1.2/information.png</file>
+        <file alias="folder">PastelSVG-1.2/folder.png</file>
+        <file alias="edit">PastelSVG-1.2/pencil.png</file>
+        <file alias="refresh_repo">PastelSVG-1.2/database-refresh.png</file>
+        <file alias="trayicon_error">gid-sync_alert_32.png</file>
+        <file alias="trayicon_refresh">gid-sync_refresh_32.png</file>
+        <file alias="trayicon_success">gid-sync_success_32.png</file>
+        <file alias="back">PastelSVG-1.2/arrow-back.png</file>
+        <file alias="settings">PastelSVG-1.2/cog.png</file>
+        <file alias="abouticon">gid-sync_64.png</file>
+        <file alias="about">PastelSVG-1.2/about.png</file>
+    </qresource>
+</RCC>
